@@ -1,1 +1,1 @@
-# Swiss-Atlas-Image-Mapper
+Image Mapper
