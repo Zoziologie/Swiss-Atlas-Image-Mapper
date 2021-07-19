@@ -93,6 +93,7 @@ export default {
       regionOptions: [
         { value: null, text: 'Enter manually'},
         { value: [49.09, 47.42, 6.56, 8.79], text: 'faune-alsace' },
+        { value: [48.5, 45.05, 4.66, 11.82], text: 'vogelwarte-atlas' },
       ],
       opacityImage:.5,
     };
